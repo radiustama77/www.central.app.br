@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap:https://www.central.app.br/jili/sitemap.xml
